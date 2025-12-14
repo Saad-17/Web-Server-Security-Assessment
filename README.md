@@ -35,3 +35,12 @@ The assessment followed a standard penetration testing methodology:
 ## Disclaimer
 This project was conducted in a controlled lab environment for educational purposes only.
 No real-world systems were targeted.
+
+## Screenshots
+
+The following screenshots demonstrate key stages of the assessment process:
+
+- Nmap service and version detection
+- Nikto web vulnerability scanning
+- Dirb directory enumeration
+- WebDAV directory exposure
